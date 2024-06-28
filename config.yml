@@ -20,8 +20,8 @@ menu:
 
 params:
   homeInfoParams:
-    Title: "Hello"
-    Content: "HIHIHIHHI"
+    Title: "Welcome to my devlog"
+    Content: "Frontend Devloper[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,java,react,vue&theme=light)](https://skillicons.dev)"
   socialIcons:
     - name: email
       url: "https://mail.google.com/mail/?view=cm&fs=1&to=dayoungpyo@gmail.com&su=Subject%20Here&body=Body%20text%20here"
