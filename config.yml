@@ -23,6 +23,8 @@ params:
     Title: "Hello"
     Content: "HIHIHIHHI"
   socialIcons:
+    - name: email
+      url: "https://mail.google.com/mail/?view=cm&fs=1&to=dayoungpyo@gmail.com&su=Subject%20Here&body=Body%20text%20here"
     - name: github
       url: "https://github.com/celestedayoung"
   ShowBreadCrumbs: true
