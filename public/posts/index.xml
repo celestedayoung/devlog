@@ -6,20 +6,13 @@
     <description>Recent content in Posts on Dayoung&#39;s Devlog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 09:45:24 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 20:22:05 +0900</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
       <link>//localhost:1313/posts/first/</link>
-      <pubDate>Wed, 26 Jun 2024 09:45:24 +0900</pubDate>
+      <pubDate>Fri, 28 Jun 2024 20:22:05 +0900</pubDate>
       <guid>//localhost:1313/posts/first/</guid>
-      <description>hi im Dayoung</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>//localhost:1313/posts/second/</link>
-      <pubDate>Wed, 26 Jun 2024 09:45:24 +0900</pubDate>
-      <guid>//localhost:1313/posts/second/</guid>
       <description>test</description>
     </item>
   </channel>
