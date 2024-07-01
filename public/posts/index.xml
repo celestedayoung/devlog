@@ -10,9 +10,9 @@
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JavaScript는 인터프리터 언어인가?</title>
-      <link>//localhost:1313/posts/isjavascriptaninterpretedlanguage/</link>
+      <link>//localhost:1313/posts/blog/isjavascriptaninterpretedlanguage/</link>
       <pubDate>Mon, 01 Jul 2024 18:55:03 +0900</pubDate>
-      <guid>//localhost:1313/posts/isjavascriptaninterpretedlanguage/</guid>
+      <guid>//localhost:1313/posts/blog/isjavascriptaninterpretedlanguage/</guid>
       <description>#Interpreted_Language #Compiled_Language #Just_In_Time #V8
 ✓ Trigger 자바스크립트를 공부하던 중, &amp;ldquo;자바스크립트 엔진은 코드가 실행될 때 리터럴을 평가해 값을 생성한다&amp;quot;는 문장을 접하고 &amp;lsquo;자바스크립트는 인터프리터 언어인가?&amp;lsquo;라는 생각이 들었다. 그래서 더 알아보다가 자바스크립트가 컴파일 언어로도 볼 수 있다는 글들을 보게 되었다. 이걸 계기로 더 깊이 서칭하게 되었고, 호기심이 생겨 추가로 알아보게 되었다.
 ✓ Overview JavaScript is an interpreted language, not a compiled language. A program such as C++ or Java needs to be compiled before it is run.</description>

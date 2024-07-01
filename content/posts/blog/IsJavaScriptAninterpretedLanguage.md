@@ -30,7 +30,7 @@ draft: false
 
 ### Before V8 5.9 version
 
-![v8-architecture-before](../../static/images/v8_architecture_before.png)
+![v8-architecture-before](/images/v8_architecture_before.png)
 
 V8 엔진 5.9 버전 이전에는 `Full-codegen`과 `Crankshaft`라는 두 개의 컴파일러가 있었다.
 
@@ -40,7 +40,7 @@ Full-codegen은 `Ignition`과 함께 자바스크립트 코드를 바이트코�
 
 ### Now
 
-![v8-architecture-after](../../static/images/v8_architecture_after.png)
+![v8-architecture-after](/images/v8_architecture_after.png)
 
 V8 엔진이 계속 발전하면서 Ignition과 TurboFan의 성능이 크게 향상되었다. 반면에 `Full-codegen`과 `Crankshaft`는 성능 향상을 따라잡지 못했다. 그래서 5.9 버전부터 이 두 컴포넌트가 엔진에서 제거되었다.
 
