@@ -30,7 +30,7 @@ draft: false
 
 ### Before V8 5.9 version
 
-<img width="898" alt="V8 architecture" src="../../static/img/v8_architecture_before.png">
+![v8-architecture-before](../../static/images/v8_architecture_before.png)
 
 V8 엔진 5.9 버전 이전에는 `Full-codegen`과 `Crankshaft`라는 두 개의 컴파일러가 있었다.
 
@@ -40,7 +40,7 @@ Full-codegen은 `Ignition`과 함께 자바스크립트 코드를 바이트코�
 
 ### Now
 
-<img width="898" alt="V8 architecture" src="../../static/img/v8_architecture_after.png">
+![v8-architecture-after](../../static/images/v8_architecture_after.png)
 
 V8 엔진이 계속 발전하면서 Ignition과 TurboFan의 성능이 크게 향상되었다. 반면에 `Full-codegen`과 `Crankshaft`는 성능 향상을 따라잡지 못했다. 그래서 5.9 버전부터 이 두 컴포넌트가 엔진에서 제거되었다.
 
@@ -65,8 +65,18 @@ TurboFan은 V8 버전 5.9 이전에 사용된 Crankshaft 컴파일러를 완전�
 ### References
 
 https://developer.mozilla.org/ko/docs/Web/JavaScript
+<br>
+
 https://v8.dev/blog/ignition-interpreter
+<br>
+
 https://web.stanford.edu/class/cs98si/slides/overview.html
+<br>
+
 https://docs.google.com/presentation/d/1OqjVqRhtwlKeKfvMdX6HaCIu9wpZsrzqpIVIwQSuiXQ/edit#slide=id.g1453eb7f19_5_51
+<br>
+
 https://en.wikipedia.org/wiki/Just-in-time_compilation
+<br>
+
 https://velog.io/@seungchan__y/자바스크립트는-Compiler-Interpreter-언어다
