@@ -2,9 +2,9 @@
 title: "JavaScript는 인터프리터 언어인가?"
 date: 2024-07-01T18:55:03+09:00
 draft: false
+tag: ["Interpreted_Language", "Compiled_Language", "Just_In_Time", "V8"]
+category: ["JavaScript"]
 ---
-
-`#Interpreted_Language` `#Compiled_Language` `#Just_In_Time` `#V8`
 
 ## ✓ Trigger
 
